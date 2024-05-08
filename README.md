@@ -37,5 +37,5 @@ Ali Ahmed (20K-0140)
 Muhammad Rafay (20K-0180)
 Anas Ali (20K-0352)
 
-# Speacial thanks to Ms. Sumaiyah Zahid for teaching this course and enhancing our knowledge in the field.
+#### Speacial thanks to Ms. Sumaiyah Zahid for teaching this course and enhancing our knowledge in the field.
 
