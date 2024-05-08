@@ -1,12 +1,12 @@
-###STOCK PRICE PREDICTION BASED ON NEWS SENTIMENTS USING LSTM AND GRU
+### STOCK PRICE PREDICTION BASED ON NEWS SENTIMENTS USING LSTM AND GRU
 
-##Introduction:
+## Introduction:
 
 Machine/Deep Learning are popular methods in finanancial data analysis. Stock price prediction is a complex task due to several influencing factors. In order to cater the "News Factor" this project
 proposes a method to calculate the sentiments scores of news from different channels and then use LSTM and GRU networks to predict the stock prices. Lastly, it would integrate the ensemble learning
 in order to produce the most accurate prediction from both the models. 
 
-##How to run this repository?
+## How to run this repository?
 execute the following commands:
 
 -git clone https://github.com/alpha0352/StockPricePrediction_DLPProject.git
@@ -30,10 +30,12 @@ Finally, we can execute "main.ipynb" file.
 
 The execution of main.ipynb consists of all the main process of data pre-processing, models definition, model training and predictions.
 
-##Collaborators:
+## Collaborators:
 
 This project was done by the help of teams members:
 Ali Ahmed (20K-0140)
 Muhammad Rafay (20K-0180)
 Anas Ali (20K-0352)
+
+# Speacial thanks to Ms. Sumaiyah Zahid for teaching this course and enhancing our knowledge in the field.
 
